@@ -5,4 +5,7 @@ public class demo{
     public void payment(){
         System.out.println("M1");
     }
+    public void notification(){
+        System.out.println("Hello uesr");
+    }
 }
